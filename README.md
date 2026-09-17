@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hello there! 👋</h1>
+  <p>I do stuff.</p>
 
-<!--
-**TrueDotBin/truedotbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Formerly Demiomad][former-name-badge]
+</div>
 
-Here are some ideas to get you started:
+## What programming languages do I use?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. C#
+2. Python
+3. (sometimes) C++
+4. (sometimes) GDScript
+
+## Do you like the code you write?
+
+Depends on the code and whether I care.
+
+[former-name-badge]: https://img.shields.io/badge/formerly-demiomad-blue?style=for-the-badge
