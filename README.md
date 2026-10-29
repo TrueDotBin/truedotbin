@@ -3,12 +3,10 @@
   <p>I do stuff.</p>
 </div>
 
-## What programming languages do I use?
+## What programming languages do I primarily use?
 
 1. C#
 2. Python
-3. (sometimes) C++
-4. (sometimes) GDScript
 
 ## Do you like the code you write?
 
