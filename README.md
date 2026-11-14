@@ -3,10 +3,14 @@
   <p>I do stuff.</p>
 </div>
 
-## What programming languages do I primarily use?
-
-1. C#
-2. Python
+## What programming languages do you primarily use?
+| Language | Usage | Purpose                    |
+|----------|-------|----------------------------|
+| C#       | Often | Literally anything I write |
+| Python   | Less often | Stuff that I can't do with C# |
+| GDScript | Often with Godot | Godot games |
+| C++      | Rarely | Geode mods |
+| JS       | Rarely | Web/Node.js stuff |
 
 ## Do you like the code you write?
 
